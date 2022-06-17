@@ -1,0 +1,87 @@
+* {
+    box-sizing: border-box;
+}
+
+ body {
+    background-color: black;
+} 
+
+.fon {
+
+    width: 970px;
+    height: 520px;
+
+    margin: 0 auto;
+    border-radius: 5px;
+    background-image: url("https://i.pinimg.com/736x/73/3d/94/733d94cc8b77ed853ced8638e550a1d4.jpg");
+    background-size: 100% 100%;
+   
+    
+}
+.frame{
+    height: 520px;
+    width: 970px;
+    background-color: blueviolet;
+   opacity: 50%;
+   border-radius: 10px;
+   
+}
+body {
+    color: white;
+    font-family: 'Bitter', serif;
+    font-family: 'PT Sans Narrow', sans-serif;}
+
+
+
+.paragraf {
+    padding-top: 150px;
+        font-size: 50px;
+        opacity: 1;
+        text-align: center;
+        
+    }
+    .Hello {
+
+text-align: center;
+    }
+    .frame2 {
+      height:130px ;
+      width: 1200;
+      background-color: rgb(162, 51, 162);
+      text-align: center;
+      padding-top: 50px;
+      color: black;
+      border-radius: 10px;
+    }
+    .frame3 {
+        height:400px ;
+        width: 700px;
+        background-color: darkorchid;
+        margin: 0 auto;
+        border-radius: 10px;
+        text-align: center;
+        color: black;
+    }
+    .loh {
+        width: 400px;
+        border-radius: 10px;
+        display: block;
+       margin: 0 auto;
+    }
+    .frame4 {
+        text-align: right;
+        width: 200px;
+        height: 200px;
+        background-color: blueviolet;
+margin-left: 1100px;
+text-align: center;
+border-radius: 10px;
+color: black;
+    }
+    .donate {
+        text-align: center;
+    }
+    .Hero {
+        width: 130px;
+        height: 130px;
+    }
